@@ -1,0 +1,25 @@
+*,
+*::after,
+*::before {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body,
+input,
+textarea,
+button {
+  font-size: 14px;
+  font-variant: none;
+  font-weight: normal;
+}
+
+body {
+  background-color: var(--color-secondary);
+}
+
+

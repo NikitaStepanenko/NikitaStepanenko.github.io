@@ -1,0 +1,25 @@
+:root {
+  /* colors */
+  --color-primary: #ffffff;
+  --color-secondary: #F7F7F7;
+  --color-thirdly: #E6EEF8;
+  
+  --border-color-primary: #E9EDEF;
+  
+  --color-text-primary: #232B2F;
+  --color-text-secondary: #637A86;
+  --color-text-thirdly: #BAC5CB;
+
+  --color-blue-1: #0C48A1;
+  --color-blue-2: #0445A3;
+  
+  /* shadows */
+  --shadow-1: 0px 8px 20px rgba(0, 0, 0, 0.08);
+  --shadow-2: 0px 0px 20px rgba(35, 43, 47, 0.04);
+  --shadow-3: 0px 4px 2px 1px rgb(0 0 0 / 20%);
+  --shadow-4: 0px 0px 30px rgba(0, 0, 0, 0.04);
+  
+  /* sizes */
+  --left-menu-width: 200px;
+  --header-height: 56px;
+}
